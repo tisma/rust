@@ -1,0 +1,19 @@
+[package]
+name = "gotchas"
+version = "0.1.0"
+authors = ["Miroslav Tisma <tisma@arktis-detectors.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[[bin]]
+name = "strings"
+path = "src/strings.rs"
+
+[[bin]]
+name = "argstring"
+path = "src/argstring.rs"
+
