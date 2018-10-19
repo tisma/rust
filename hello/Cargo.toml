@@ -4,3 +4,8 @@ version = "0.1.0"
 authors = ["Miroslav Tisma <tisma.etf@gmail.com>"]
 
 [dependencies]
+
+[[bin]]
+name = "functional"
+path = "src/functional.rs"
+
