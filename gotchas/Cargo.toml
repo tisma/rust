@@ -17,3 +17,7 @@ path = "src/strings.rs"
 name = "argstring"
 path = "src/argstring.rs"
 
+[[bin]]
+name = "mutable"
+path = "src/mutable.rs"
+
