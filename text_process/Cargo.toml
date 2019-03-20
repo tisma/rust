@@ -1,0 +1,23 @@
+[package]
+name = "text_process"
+version = "0.1.0"
+authors = ["Miroslav Tisma <tisma@linux.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "ip_parse"
+path = "src/unwrap.rs"
+
+[[bin]]
+name = "macro"
+path = "src/macros.rs"
+
+[[bin]]
+name = "basic_operation"
+path = "src/basic_operation.rs"
+
+[[bin]]
+name = "palindrome"
+path = "src/palindrome.rs"
