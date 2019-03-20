@@ -1,0 +1,11 @@
+[package]
+name = "aws_lambda"
+version = "0.1.0"
+authors = ["Miroslav Tisma <tisma@linux.com>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0.80"
+serde_derive = "1.0.80"
+lambda_runtime = "0.1.0"
+
