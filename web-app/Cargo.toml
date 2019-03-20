@@ -1,0 +1,8 @@
+[package]
+name = "web-app"
+version = "0.1.0"
+authors = ["Miroslav Tisma <tisma@linux.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.11"
