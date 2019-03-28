@@ -1,0 +1,11 @@
+[package]
+name = "process_csv"
+version = "0.1.0"
+authors = ["Miroslav Tisma <tisma.etf@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "process_csv"
+path = "src/process_csv.rs"
