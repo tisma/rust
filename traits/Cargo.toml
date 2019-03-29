@@ -5,3 +5,7 @@ authors = ["Miroslav Tisma <tisma@arktis-detectors.com>"]
 edition = "2018"
 
 [dependencies]
+
+[[bin]]
+name = "trait"
+path = "src/trait.rs"
