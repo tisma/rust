@@ -1,9 +1,11 @@
 [package]
 name = "gotchas"
 version = "0.1.0"
-authors = ["Miroslav Tisma <tisma@arktis-detectors.com>"]
+authors = ["Miroslav Tisma <tisma.etf@gmail.com>"]
 
 [dependencies]
+libc = "0.2"
+rayon = "1.0.3"
 
 [[bin]]
 name = "main"
@@ -20,4 +22,28 @@ path = "src/argstring.rs"
 [[bin]]
 name = "mutable"
 path = "src/mutable.rs"
+
+[[bin]]
+name = "attemp1"
+path = "src/attemp1.rs"
+
+[[bin]]
+name = "attemp2"
+path = "src/attemp2.rs"
+
+[[bin]]
+name = "attemp3"
+path = "src/attemp3.rs"
+
+[[bin]]
+name = "attemp4"
+path = "src/attemp4.rs"
+
+[[bin]]
+name = "attemp5"
+path = "src/attemp5.rs"
+
+[[bin]]
+name = "attemp6"
+path = "src/attemp6"
 
