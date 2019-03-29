@@ -1,4 +1,14 @@
 [[package]]
 name = "project"
 version = "0.1.0"
+dependencies = [
+ "session_types 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
 
+[[package]]
+name = "session_types"
+version = "0.2.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum session_types 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)" = "a5d02db9ecdf25331b26a1ff9593b0a93c7a11b370e0d4b68ab901b9d216b020"

@@ -1,6 +1,15 @@
 [package]
 name = "project"
 version = "0.1.0"
-authors = ["Miroslav Tisma <miroslav.tisma@tomtom.com>"]
+authors = ["Miroslav Tisma <tisma.etf@gmail.com>"]
 
 [dependencies]
+session_types = "0.2.0"
+
+[[bin]]
+name = "linked_list"
+src = "src/list.rs"
+
+[[bin]]
+name = "session"
+src = "src/session.rs"
