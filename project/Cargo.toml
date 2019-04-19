@@ -13,3 +13,7 @@ src = "src/list.rs"
 [[bin]]
 name = "session"
 src = "src/session.rs"
+
+[[bin]]
+name = "map"
+src = "src/map.rs"
