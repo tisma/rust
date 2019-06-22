@@ -1,0 +1,35 @@
+[package]
+name = "files_io"
+version = "0.1.0"
+authors = ["Miroslav Tisma <tisma.etf@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "read_write"
+path = "src/read_write.rs"
+
+[[bin]]
+name = "operations"
+path = "src/operations.rs"
+
+[[bin]]
+name = "command_line_args"
+path = "src/command_line_args.rs"
+
+[[bin]]
+name = "std_io_unix"
+path = "src/std_io_unix.rs"
+
+[[bin]]
+name = "line_by_line"
+path = "src/line_by_line.rs"
+
+[[bin]]
+name = "file_copy"
+path = "src/file_copy.rs"
+
+[[bin]]
+name = "file_permissions"
+path = "src/file_permissions.rs"
