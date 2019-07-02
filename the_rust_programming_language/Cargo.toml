@@ -18,3 +18,7 @@ path = "src/chapter3/ownership.rs"
 [[bin]]
 name = "structs"
 path = "src/chapter5/structs.rs"
+
+[[bin]]
+name = "enum_match"
+path = "src/chapter6/enum_match.rs"
