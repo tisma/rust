@@ -14,3 +14,7 @@ path = "src/chapter2/guessing_game.rs"
 [[bin]]
 name = "ownership"
 path = "src/chapter3/ownership.rs"
+
+[[bin]]
+name = "structs"
+path = "src/chapter5/structs.rs"
