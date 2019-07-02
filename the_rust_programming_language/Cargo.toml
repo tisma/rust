@@ -10,3 +10,7 @@ rand = "0.7.0"
 [[bin]]
 name = "guessing_game"
 path = "src/chapter2/guessing_game.rs"
+
+[[bin]]
+name = "ownership"
+path = "src/chapter3/ownership.rs"
