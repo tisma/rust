@@ -22,3 +22,7 @@ path = "src/chapter5/structs.rs"
 [[bin]]
 name = "enum_match"
 path = "src/chapter6/enum_match.rs"
+
+[[bin]]
+name = "common_collections"
+path = "src/chapter8/common_collections.rs"
