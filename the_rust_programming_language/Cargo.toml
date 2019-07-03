@@ -26,3 +26,7 @@ path = "src/chapter6/enum_match.rs"
 [[bin]]
 name = "common_collections"
 path = "src/chapter8/common_collections.rs"
+
+[[bin]]
+name = "errors"
+path = "src/chapter9/errors.rs"
