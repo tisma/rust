@@ -46,3 +46,7 @@ path = "src/chapter10/generics.rs"
 [[bin]]
 name = "traits"
 path = "src/chapter10/traits.rs"
+
+[[bin]]
+name = "generic_trait_function"
+path = "src/chapter10/generic_trait_function.rs"
