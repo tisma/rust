@@ -38,3 +38,7 @@ path = "src/chapter9/propagate_error.rs"
 [[bin]]
 name = "duplicated_code"
 path = "src/chapter10/duplicated_code.rs"
+
+[[bin]]
+name = "generics"
+path = "src/chapter10/generics.rs"
