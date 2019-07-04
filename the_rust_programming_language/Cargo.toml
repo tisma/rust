@@ -34,3 +34,7 @@ path = "src/chapter9/errors.rs"
 [[bin]]
 name = "propagate_error"
 path = "src/chapter9/propagate_error.rs"
+
+[[bin]]
+name = "duplicated_code"
+path = "src/chapter10/duplicated_code.rs"
