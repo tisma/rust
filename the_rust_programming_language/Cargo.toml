@@ -50,3 +50,7 @@ path = "src/chapter10/traits.rs"
 [[bin]]
 name = "generic_trait_function"
 path = "src/chapter10/generic_trait_function.rs"
+
+[[bin]]
+name = "lifetimes"
+path = "src/chapter10/lifetimes.rs"
