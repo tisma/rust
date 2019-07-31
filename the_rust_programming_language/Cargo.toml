@@ -55,11 +55,19 @@ path = "src/chapter10/generic_trait_function.rs"
 name = "lifetimes"
 path = "src/chapter10/lifetimes.rs"
 
-[lib]
-name = "test_struct"
-path = "src/chapter11/test_struct.rs"
+# [lib]
+# name = "test_struct"
+# path = "src/chapter11/test_struct.rs"
 
 [[bin]]
 name = "guessing_game_test"
 path = "src/chapter11/guessing_game_test.rs"
+
+[[bin]]
+name = "minigrep"
+path = "src/chapter12/minigrep.rs"
+
+[lib]
+name = "minigrep"
+path = "src/chapter12/lib.rs"
 
