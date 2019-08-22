@@ -74,3 +74,7 @@ path = "src/chapter12/lib.rs"
 [[bin]]
 name = "functional"
 path = "src/chapter13/functional.rs"
+
+[[bin]]
+name = "iterators"
+path = "src/chapter13/iterators.rs"
