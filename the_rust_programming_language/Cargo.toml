@@ -71,3 +71,6 @@ path = "src/chapter12/minigrep.rs"
 name = "minigrep"
 path = "src/chapter12/lib.rs"
 
+[[bin]]
+name = "functional"
+path = "src/chapter13/functional.rs"
