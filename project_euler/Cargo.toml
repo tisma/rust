@@ -20,3 +20,7 @@ path = "src/sieve.rs"
 [[bin]]
 name = "bigint"
 path = "src/bigint.rs"
+
+[[bin]]
+name = "englishify"
+path = "src/englishify.rs"
