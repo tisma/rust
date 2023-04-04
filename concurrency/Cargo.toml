@@ -6,3 +6,12 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.7"
+
+[[bin]]
+name = "mutex-demo"
+path = "src/mutex-demo.rs"
+
+[[bin]]
+name = "concurrency"
+path = "src/main.rs"
