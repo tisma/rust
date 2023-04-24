@@ -17,3 +17,12 @@ src = "src/session.rs"
 [[bin]]
 name = "map"
 src = "src/map.rs"
+
+[[bin]]
+name = "vectors"
+src = "src/vectors.rs"
+
+[[bin]]
+name = "match_exclusive"
+src = "src/match_exclusive.rs"
+
